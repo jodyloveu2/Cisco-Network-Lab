@@ -8,4 +8,5 @@ no sh
 int nve1
 no sh
 source int lo1
-member vni 1001 associate-vn-segment
+member vni 1001
+ex
