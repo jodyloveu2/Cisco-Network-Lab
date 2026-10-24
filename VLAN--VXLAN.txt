@@ -10,3 +10,6 @@ no sh
 source int lo1
 member vni 1001
 ex
+int lo1
+ip app 10.0.0.1 255.255.255.255
+ex
