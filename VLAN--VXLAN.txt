@@ -13,3 +13,5 @@ ex
 int lo1
 ip app 10.0.0.1 255.255.255.255
 ex
+vlan 10
+vn-segment 1001
