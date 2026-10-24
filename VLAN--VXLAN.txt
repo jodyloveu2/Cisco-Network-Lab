@@ -1,0 +1,4 @@
+enable
+config t
+vlan 10
+name HR
