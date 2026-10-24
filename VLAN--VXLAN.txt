@@ -5,3 +5,7 @@ name HR
 int vlan 10
 ip add 10.0.10.1 255.255.255.0
 no sh
+int nve1
+no sh
+source int lo1
+member vni 1001 associate-vn-segment
